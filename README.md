@@ -15,3 +15,10 @@ You must have popup.el installed, then just add to init.el:
 #Commands
 * recall - displays popup with last edits, selecting one moves cursor to its position
 * recall-remember - adds current place to list manually
+
+#Default shortcuts:
+* C-x r - recall
+* C-x C-r - recall-remember
+
+#Customization:
+* Enter customize->convenience->Recall Group
